@@ -1,0 +1,48 @@
+{
+  "binary_file_patterns":
+  [
+    "*.cache",
+    "*.log",
+    "tmp/",
+    "*.csv"
+  ],
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+  "copy_with_empty_selection": false,
+  "detect_slow_plugins": false,
+  "drag_text": false,
+  "draw_minimap_border": true,
+  "folders":
+  [
+    {
+      "folder_exclude_patterns":
+      [
+        "sprockets"
+      ],
+      "path": "/projects/"
+    }
+  ],
+  "font_size": 12.0,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "margin": 0,
+  "preview_on_click": false,
+  "rulers":
+  [
+    80
+  ],
+  "show_full_path": true,
+  "tab_size": 2,
+  "trailing_spaces_save_after_trim": true,
+  "trailing_spaces_trim_on_save": true,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
